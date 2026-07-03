@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,figma,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,figma,bootstrap)](https://skillicons.dev)
 
 
 <div align="center">
@@ -36,17 +36,25 @@ Aqui estão as ferramentas e linguagens que venho dominando e aplicando nos meus
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <!-- <img src="https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python&logoColor=white" alt="Python"> -->
 </div>
 
 <hr>
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webcapcl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcapcl&layout=compact&langs_count=7&theme=radical"/>
+</div> -->
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-six.vercel.app/api?username=webcapcl&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=webcapcl&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
 </div>
+
+
+
 
 <hr>
 
