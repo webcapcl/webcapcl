@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,wasm,figma,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,figma,bootstrap)](https://skillicons.dev)
 
 
 <div align="center">
@@ -36,6 +36,7 @@ Aqui estão as ferramentas e linguagens que venho dominando e aplicando nos meus
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
 <hr>
