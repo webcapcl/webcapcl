@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Olá,%20visitante!-👋-blueviolet?style=for-the-badge" alt="Boas-Vindas">
   
-  <h1>Olá, Cláudio Alves! 🚀</h1>
+  <h1>Cláudio Alves! 🚀</h1>
   <p><em>Estudante de Desenvolvimento de Sistemas no SENAI</em></p>
 
   <p>Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você vai encontrar alguns dos meus projetos, estudos e a minha evolução na área de tecnologia.</p>
